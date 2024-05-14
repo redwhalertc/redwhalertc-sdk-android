@@ -1,8 +1,8 @@
-# yzmeeting-sdk-android
+# redwhalertc-sdk-android
 
 # 概述
 
-随着云视频会议的越来越普及，企业沟通中随时拉会的场景越来越多，云舟会议赋能企业内部各种应用随时拉起视频通话或者视频会议，让您的应用轻松插上即时通话和会议的翅膀。
+随着云视频会议的越来越普及，企业沟通中随时拉会的场景越来越多，红鲸会议赋能企业内部各种应用随时拉起视频通话或者视频会议，让您的应用轻松插上即时通话和会议的翅膀。
 
 红鲸会议SDK是自带UI功能的音视频通话和音视频会议SDK，具有如下特点：
 
@@ -23,4 +23,4 @@
 
 # 快速开始
 
-请参考yzmeeting-example-android的README,进行sdk的集成 https://github.com/yunzhoucomm/yzmeeting-example-android/blob/main/README.md
+请参考redwhalertc-example-android的README,进行sdk的集成 https://github.com/redwhalertc/redwhalertc-example-android/blob/main/README.md
